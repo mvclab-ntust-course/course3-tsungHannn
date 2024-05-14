@@ -42,5 +42,5 @@ Use GPU Memory 11.7 GB (95%)\
 
 Train完100個Epoch已經很晚了，電腦太吵只能關掉了。
 
-結果產不出派大星，我甚至找不到可以迴避掉系統的Token
+結果產不出派大星，我甚至找不到可以迴避掉系統的Token，所以就沒有把結果放上來了。
 ![image-6](https://github.com/mvclab-ntust-course/course3-tsungHannn/assets/85086644/40f87f6e-39fd-4db0-b7ab-643b8a1e64d8)
